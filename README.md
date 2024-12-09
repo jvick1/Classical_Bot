@@ -25,6 +25,10 @@ For these playlists I used ChatGPT to create the playlist based on artist, time 
 
 Once we have the finalized counts we can review to see if we can make additional playlist or add new songs besides classical songs. 
 
+## Viz
+Use Grok, Pexels, and others to generate images/videos for the music. Note there is size resrtrictions so I only uploaded a few bc most was too big.
+![image](https://github.com/user-attachments/assets/e54766e7-3f1e-4607-816a-a69c83f1aa47)
+
 # Goals
 Create at least 52 videos to release one a week. Get monitized on YouTube with this cool bot idea!
 
