@@ -1,0 +1,324 @@
+[
+    {
+        "﻿Playlist": "Artist Playlists",
+        "Description": "Each playlist is based on a single artist, with the following total durations: yellow is baroque & classical era (1600-1820) green is Romantic (1820) to early 20th century.",
+        "Artist": "Beethoven",
+        "Video Name": "Beethoven",
+        "Tracks": "Fur Elise, Moonlight Sonata, Symphony No. 5, 9th Symphony"
+    },
+    {
+        "﻿Playlist": "Artist Playlists",
+        "Description": "Each playlist is based on a single artist, with the following total durations: yellow is baroque & classical era (1600-1820) green is Romantic (1820) to early 20th century.",
+        "Artist": "Chopin",
+        "Video Name": "Chopin",
+        "Tracks": "E Minor Prelude, Funeral March"
+    },
+    {
+        "﻿Playlist": "Artist Playlists",
+        "Description": "Each playlist is based on a single artist, with the following total durations: yellow is baroque & classical era (1600-1820) green is Romantic (1820) to early 20th century.",
+        "Artist": "Josef Suk",
+        "Video Name": "Josef Suk",
+        "Tracks": "Serenade Op.6"
+    },
+    {
+        "﻿Playlist": "Artist Playlists",
+        "Description": "Each playlist is based on a single artist, with the following total durations: yellow is baroque & classical era (1600-1820) green is Romantic (1820) to early 20th century.",
+        "Artist": "Mozart",
+        "Video Name": "Mozart",
+        "Tracks": "Eine Kleine Nachtmusik, Symphony No.38 in D major"
+    },
+    {
+        "﻿Playlist": "Artist Playlists",
+        "Description": "Each playlist is based on a single artist, with the following total durations: yellow is baroque & classical era (1600-1820) green is Romantic (1820) to early 20th century.",
+        "Artist": "Rossini",
+        "Video Name": "Rossini",
+        "Tracks": "William Tell Overture"
+    },
+    {
+        "﻿Playlist": "Artist Playlists",
+        "Description": "Each playlist is based on a single artist, with the following total durations: yellow is baroque & classical era (1600-1820) green is Romantic (1820) to early 20th century.",
+        "Artist": "Strauss",
+        "Video Name": "Strauss",
+        "Tracks": "Blue Danube"
+    },
+    {
+        "﻿Playlist": "Artist Playlists",
+        "Description": "Each playlist is based on a single artist, with the following total durations: yellow is baroque & classical era (1600-1820) green is Romantic (1820) to early 20th century.",
+        "Artist": "Tchaikovsky",
+        "Video Name": "Tchaikovsky",
+        "Tracks": "1812 Overture, Waltz of the Flowers"
+    },
+    {
+        "﻿Playlist": "Era-Based Playlists",
+        "Description": "Grouping by era, based on approximate affiliations:",
+        "Artist": "Bach, Mozart",
+        "Video Name": "Baroque/Classical Era",
+        "Tracks": "C Major Prelude, Toccata in D minor, Eine Kleine Nachtmusik, Symphony No.38 in D major"
+    },
+    {
+        "﻿Playlist": "Era-Based Playlists",
+        "Description": "Grouping by era, based on approximate affiliations:",
+        "Artist": "Beethoven, Chopin, Mendelssohn",
+        "Video Name": "Early Romantic Era",
+        "Tracks": "Fur Elise, Moonlight Sonata, Symphony No. 5, 9th Symphony, E Minor Prelude, Funeral March, Midsummer Night's Dream"
+    },
+    {
+        "﻿Playlist": "Era-Based Playlists",
+        "Description": "Grouping by era, based on approximate affiliations:",
+        "Artist": "Tchaikovsky, Strauss, Josef Suk",
+        "Video Name": "Romantic Era",
+        "Tracks": "1812 Overture, Waltz of the Flowers, Blue Danube, Serenade Op.6"
+    },
+    {
+        "﻿Playlist": "Era-Based Playlists",
+        "Description": "Grouping by era, based on approximate affiliations:",
+        "Artist": "Beethoven, Mozart, Tchaikovsky",
+        "Video Name": "Mixed Romantic/Classical",
+        "Tracks": "Fur Elise, Moonlight Sonata, Symphony No. 5, 9th Symphony, Eine Kleine Nachtmusik, Symphony No.38 in D major, 1812 Overture, Waltz of the Flowers"
+    },
+    {
+        "﻿Playlist": "Era-Based Playlists",
+        "Description": "Grouping by era, based on approximate affiliations:",
+        "Artist": "Satie, Strauss, Tchaikovsky, Beethoven, Chopin, Medelssohn",
+        "Video Name": "Romantic (1820) to Early 20th century ",
+        "Tracks": "Fur Elise, Moonlight Sonata, Symphony No. 5, 9th Symphony, E Minor Prelude, Funeral March, Blue Danube, Gymnopedie no1, 1812 Overture, Waltz of the Flowers, Midsummer Night's Dream"
+    },
+    {
+        "﻿Playlist": "Era-Based Playlists",
+        "Description": "Grouping by era, based on approximate affiliations:",
+        "Artist": "Mozart, Rossini, Bach",
+        "Video Name": "Baroque Era to Classical Era (1600-1820)",
+        "Tracks": "Eine Kleine Nachtmusik, Symphony No.38 in D major, William Tell Overture, C Major Prelude, Toccata in D minor"
+    },
+    {
+        "﻿Playlist": "Mood Playlists",
+        "Description": "Each playlist is grouped by mood, with the following approximate durations:",
+        "Artist": "",
+        "Video Name": "Dark",
+        "Tracks": "Toccata in D minor, Moonlight Sonata, Symphony No. 5"
+    },
+    {
+        "﻿Playlist": "Mood Playlists",
+        "Description": "Each playlist is grouped by mood, with the following approximate durations:",
+        "Artist": "",
+        "Video Name": "Dramatic",
+        "Tracks": "9th Symphony, Symphony No. 38, William Tell Overture, Blue Danube, 1812 Overture"
+    },
+    {
+        "﻿Playlist": "Mood Playlists",
+        "Description": "Each playlist is grouped by mood, with the following approximate durations:",
+        "Artist": "",
+        "Video Name": "Sad",
+        "Tracks": "Fur Elise, E Minor Prelude, Funeral March"
+    },
+    {
+        "﻿Playlist": "Mood Playlists",
+        "Description": "Each playlist is grouped by mood, with the following approximate durations:",
+        "Artist": "",
+        "Video Name": "Bright",
+        "Tracks": "Midsummer Night’s Dream, Waltz of the Flowers"
+    },
+    {
+        "﻿Playlist": "Mood Playlists",
+        "Description": "Each playlist is grouped by mood, with the following approximate durations:",
+        "Artist": "Includes the full Dark and Dramatic moods",
+        "Video Name": "Dark + Dramatic",
+        "Tracks": "Toccata in D minor, Moonlight Sonata, Symphony No. 5, 9th Symphony, Symphony No. 38, William Tell Overture, Blue Danube, 1812 Overture"
+    },
+    {
+        "﻿Playlist": "Mood Playlists",
+        "Description": "Each playlist is grouped by mood, with the following approximate durations:",
+        "Artist": "Includes the full Sad and Calm moods",
+        "Video Name": "Sad + Calm",
+        "Tracks": "Gymnopedie no1, Fur Elise, E Minor Prelude, Funeral March"
+    },
+    {
+        "﻿Playlist": "Mood Playlists",
+        "Description": "Each playlist is grouped by mood, with the following approximate durations:",
+        "Artist": "Includes the full Happy and Bright moods",
+        "Video Name": "Happy + Bright",
+        "Tracks": "C Major Prelude, Eine Kleine Nachtmusik, Midsummer Night’s Dream, Waltz of the Flowers"
+    },
+    {
+        "﻿Playlist": "Mood Playlists",
+        "Description": "Each playlist is grouped by mood, with the following approximate durations:",
+        "Artist": "Combines Bright mood songs with Dramatic songs",
+        "Video Name": "Bright + Dramatic",
+        "Tracks": "Midsummer Night’s Dream, Waltz of the Flowers, 9th Symphony, Symphony No. 38, William Tell Overture, Blue Danube, 1812 Overture"
+    },
+    {
+        "﻿Playlist": "Mood Playlists",
+        "Description": "Each playlist is grouped by mood, with the following approximate durations:",
+        "Artist": "Combines Sad and Dramatic moods",
+        "Video Name": "Sad + Dramatic",
+        "Tracks": "Gymnopedie no1, 9th Symphony, Symphony No. 38, William Tell Overture, Blue Danube, 1812 Overture"
+    },
+    {
+        "﻿Playlist": "Baby Playlists",
+        "Description": "Soft, Calming Tracks",
+        "Artist": "",
+        "Video Name": "Gentle Melodies for Little Ears",
+        "Tracks": "Gymnopedie no1, Eine Kleine Nachtmusik, C Major Prelude, Fur Elise"
+    },
+    {
+        "﻿Playlist": "Baby Playlists",
+        "Description": "Soft, Calming Tracks",
+        "Artist": "",
+        "Video Name": "Gentle Melodies for Little Ears 2",
+        "Tracks": "Eine Kleine Nachtmusik, C Major Prelude, Fur Elise"
+    },
+    {
+        "﻿Playlist": "Baby Playlists",
+        "Description": "Soft, Calming Tracks",
+        "Artist": "Mendelssohn, Tchaikovsky, Chopin, Strauss",
+        "Video Name": "Classical Lullabies",
+        "Tracks": "Midsummer Night’s Dream, Waltz of the Flowers, E Minor Prelude, Blue Danube "
+    },
+    {
+        "﻿Playlist": "Baby Playlists",
+        "Description": "Soft, Calming Tracks",
+        "Artist": "Bach, Chopin, Satie, Beethoven",
+        "Video Name": "Quiet Time for Babies",
+        "Tracks": "C Major Prelude, E Minor Prelude, Gymnopedie no1, Moonlight Sonata"
+    },
+    {
+        "﻿Playlist": "Baby Playlists",
+        "Description": "Soft, Calming Tracks",
+        "Artist": "Tchaikovsky, Beethoven, Mendelssohn, Satie",
+        "Video Name": "Dreamy Classical Night",
+        "Tracks": "Waltz of the Flowers, Fur Elise, Midsummer Night’s Dream, Gymnopedie no1"
+    },
+    {
+        "﻿Playlist": "Study Playlists",
+        "Description": "Focus",
+        "Artist": "Beethoven, Mozart, Rossini, Tchaikovsky",
+        "Video Name": "Focused Minds",
+        "Tracks": "Fur Elise, Symphony No.38 in D major, William Tell Overture, 1812 Overture"
+    },
+    {
+        "﻿Playlist": "Study Playlists",
+        "Description": "Focus",
+        "Artist": "Josef Suk, Strauss, Mendelssohn, Beethoven",
+        "Video Name": "Productive Hours",
+        "Tracks": "Serenade Op.6, Blue Danube, Midsummer Night's Dream, Symphony No. 5"
+    },
+    {
+        "﻿Playlist": "Study Playlists",
+        "Description": "Focus",
+        "Artist": "Tchaikovsky, Mendelssohn, Satie, Bach",
+        "Video Name": "Deep Thinking Playlist",
+        "Tracks": "Waltz of the Flowers, Midsummer Night’s Dream, Gymnopedie no1, Toccata in D minor"
+    },
+    {
+        "﻿Playlist": "Study Playlists",
+        "Description": "Focus",
+        "Artist": "Chopin, Beethoven, Strauss, Rossini",
+        "Video Name": "Intense Focus Tracks",
+        "Tracks": "Funeral March, Moonlight Sonata, Blue Danube, William Tell Overture"
+    },
+    {
+        "﻿Playlist": "Study Playlists",
+        "Description": "Focus",
+        "Artist": "Bach, Mozart, Mendelssohn, Beethoven",
+        "Video Name": "18th Century Study Session",
+        "Tracks": "C Major Prelude, Eine Kleine Nachtmusik, Midsummer Night’s Dream, Fur Elise"
+    },
+    {
+        "﻿Playlist": "Meme Playlists ",
+        "Description": "Humor & Nostalgia",
+        "Artist": "Rossini, Beethoven, Mozart, Strauss",
+        "Video Name": "1800s Elite Party Bangers",
+        "Tracks": "William Tell Overture, Symphony No. 5, Eine Kleine Nachtmusik, Blue Danube"
+    },
+    {
+        "﻿Playlist": "Meme Playlists ",
+        "Description": "Humor & Nostalgia",
+        "Artist": "Chopin, Beethoven, Strauss, Tchaikovsky",
+        "Video Name": "Playlist to Woo an 1800s Romantic",
+        "Tracks": "Funeral March, Moonlight Sonata, Blue Danube, Waltz of the Flowers"
+    },
+    {
+        "﻿Playlist": "Meme Playlists ",
+        "Description": "Humor & Nostalgia",
+        "Artist": "Bach, Beethoven, Tchaikovsky, Josef Suk",
+        "Video Name": "Villain Vibes from the 19th Century",
+        "Tracks": "Toccata in D minor, Symphony No. 5, 1812 Overture, Serenade Op.6"
+    },
+    {
+        "﻿Playlist": "Meme Playlists ",
+        "Description": "Vibe: Imagine nobles gathering for a rave in powdered wigs—party like it's 1799.",
+        "Artist": "Beethoven, Tchaikovsky, Rossini, Mozart, Strauss",
+        "Video Name": "18th Century Club Bangers",
+        "Tracks": "Symphony No. 5, 1812 Overture, William Tell Overture, Eine Kleine Nachtmusik"
+    },
+    {
+        "﻿Playlist": "Meme Playlists ",
+        "Description": "Vibe: All the best tunes for serenading your beloved under candlelight.",
+        "Artist": "Beethoven, Chopin, Mendelssohn, Bach, Mozart",
+        "Video Name": "Playlist to Woo Your 18th Century Crush",
+        "Tracks": "Fur Elise, E Minor Prelude, Midsummer Night's Dream, C Major Prelude"
+    },
+    {
+        "﻿Playlist": "Meme Playlists ",
+        "Description": "Gambling",
+        "Artist": "Mozart, Beethoven, Strauss, Bach, Chopin",
+        "Video Name": "18th Century Gambling Den Soundtrack:",
+        "Tracks": "Symphony No.38 in D major, Moonlight Sonata, Blue Danube, Toccata in D minor"
+    },
+    {
+        "﻿Playlist": "Meme Playlists ",
+        "Description": "Vibe: Perfect for a courtly wedding",
+        "Artist": "Mendelssohn, Strauss, Tchaikovsky, Bach, Satie (extra)",
+        "Video Name": "Wedding Reception of 1785:",
+        "Tracks": "Blue Danube, Waltz of the Flowers, C Major Prelude, Gymnopedie No.1"
+    },
+    {
+        "﻿Playlist": "Meme Playlists ",
+        "Description": "Vibe: A classical soundtrack to crush your workout—think battle horns and epic overtures.",
+        "Artist": "Beethoven, Rossini, Tchaikovsky, Mozart, Wagner (extra)",
+        "Video Name": "Classical Gym Playlist: 1800s Edition:",
+        "Tracks": "Symphony No. 5, William Tell Overture, 1812 Overture, Eine Kleine Nachtmusik"
+    },
+    {
+        "﻿Playlist": "Themed",
+        "Description": "Vibe: Cozy",
+        "Artist": "Mendelssohn, Beethoven, Chopin, Vivaldi (extra)",
+        "Video Name": "Winter Wonderland:",
+        "Tracks": "Midsummer Night’s Dream, Moonlight Sonata, E Minor Prelude"
+    },
+    {
+        "﻿Playlist": "Themed",
+        "Description": "Vibe: Reflective and melancholic",
+        "Artist": "Bach, Beethoven, Chopin, Strauss, Dvorak (extra)",
+        "Video Name": "Autumn Reflections:",
+        "Tracks": "Toccata in D minor, Symphony No. 5, Funeral March, Blue Danube"
+    },
+    {
+        "﻿Playlist": "Themed",
+        "Description": "Spring",
+        "Artist": "Mozart, Mendelssohn, Bach, Satie, Vivaldi (extra)",
+        "Video Name": "Spring Awakening:",
+        "Tracks": "Eine Kleine Nachtmusik, Midsummer Night's Dream, C Major Prelude, Gymnopedie no1"
+    },
+    {
+        "﻿Playlist": "Themed",
+        "Description": "Vibe: Dreamy and lush melodies to reflect long",
+        "Artist": "Josef Suk, Rossini, Mozart, Beethoven, Tchaikovsky (extra)",
+        "Video Name": "Summer Serenade:",
+        "Tracks": "Serenade Op.6, William Tell Overture, Symphony No.38 in D major, Fur Elise"
+    },
+    {
+        "﻿Playlist": "Themed",
+        "Description": "Vibe: Festive and heartwarming  with touches of grandeur to match the holiday season’s spirit.",
+        "Artist": "Tchaikovsky, Mendelssohn, Satie, Beethoven, Handel (extra)",
+        "Video Name": "Classical Christmas Collection:",
+        "Tracks": "1812 Overture, Midsummer Night’s Dream, Gymnopedie no1, 9th Symphony"
+    },
+    {
+        "﻿Playlist": "Themed",
+        "Description": "Vibe: Spooky and dramatic  perfect for setting a haunted atmosphere on Halloween night.",
+        "Artist": "Bach, Beethoven, Chopin, Tchaikovsky, Mussorgsky (extra)",
+        "Video Name": "Halloween Haunts:",
+        "Tracks": "Toccata in D minor, Moonlight Sonata, Funeral March, 1812 Overture"
+    }
+]
